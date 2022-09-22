@@ -1,0 +1,14 @@
+body{
+    color: blueviolet;
+}
+
+div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
