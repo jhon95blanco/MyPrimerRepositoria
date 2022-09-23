@@ -1,12 +1,19 @@
 body{
-    color: blueviolet;
+    color: rgb(30, 16, 78);
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
-div{
-    align-items: center;
+#container {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 70%;
+    border: 1px solid;
+    margin: 10px;
 }
+
 
 h1{
     color: brown;
