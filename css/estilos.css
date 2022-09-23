@@ -7,15 +7,26 @@ body{
 
 #container {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     text-align: center;
-    width: 70%;
-    border: 1px solid;
+    width: 80%;
     margin: 10px;
 }
+#cabecera{
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
 
+#post{
+    color: #ffff;
+    background-color: rgb(255, 189, 127);
+    padding: 10px;
+}
 
 h1{
-    color: brown;
+    color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
