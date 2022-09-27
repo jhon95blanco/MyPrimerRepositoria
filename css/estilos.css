@@ -14,7 +14,7 @@ body{
     margin: 10px;
 }
 #cabecera{
-    background-color: aquamarine;
+    background-color: #18383f;
     border-radius: 20px;
     margin: 20px;
     padding: 10px;
@@ -22,7 +22,7 @@ body{
 
 #post{
     color: #ffff;
-    background-color: rgb(255, 189, 127);
+    background-color: #388f95;
     padding: 10px;
 }
 
