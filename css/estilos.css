@@ -32,7 +32,7 @@ h1{
 }
 
 #Footer{
-    background: aquamarine;
+    background: #18383f;
     color: #ffff;
     display: flex;
     flex-direction: row;
